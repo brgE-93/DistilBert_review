@@ -1,0 +1,15 @@
+Flask
+scikit-learn
+pandas
+seaborn
+numpy
+matplotlib
+gunicorn
+torch
+transformers
+tqdm
+tokenizers
+nltk
+scipy
+wordcloud
+spacy
