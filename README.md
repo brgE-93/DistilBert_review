@@ -12,6 +12,7 @@
  - Creating the model and defining its loss and optimize
  - The dataloader passes data to the model based on the batch size.
  - Subsequent output from the model and the actual category are compared to calculate the loss(Loss value is used to optimize the weights of the neurons in the network).
+ - Do regularization and early stopping to prevent overfitting
 
 
 # Saving the Trained Model for inference
