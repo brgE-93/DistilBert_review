@@ -8,7 +8,7 @@
    - Sentiment analysis and multi-labels classification:Transformers provided by Hugging Face, DistilBert,Pytorch,Python
    
     
-# fine-tuning our pretrained model in native PyTorch on our dataset.
+# Fine-tuning our pretrained model in native PyTorch on our dataset.
  - Creating the model and defining its loss and optimize
  - The dataloader passes data to the model based on the batch size.
  - Subsequent output from the model and the actual category are compared to calculate the loss(Loss value is used to optimize the weights of the neurons in the network).
