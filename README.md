@@ -2,6 +2,7 @@
   - code from google collab
   - The project is based on the Amazon product review from customers dataset.
   - This is a multi-class classification. Reviews should be classified into five classes 1,2,3,4,5.(from very bad to very good)
+  - [![Open in nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/brgE-93/DistilBert_review/blob/main/amazon_NLP_%281%29.ipynb)
 # Used approaches
    - EDA and Different visualization approaches:WordCloud,Pandas,Seaborn,nltk
    - detection of polarity and intensity of emotion:lexicon and rule-based sentiment analysis tool---Vader4
